@@ -3,7 +3,7 @@
 A data analysis and machine learning project using a dataset of health indicators to train a decision tree model.
 
 ## Demo
-[Tree Text Visualization](visual.png)
+![Tree Text Visualization](visual.png)
 [View the project on Girls Who Code TextJam](https://hq.girlswhocode.com/TextJam/py/17952/bd5e51ec)
 
 ## How I Made It
